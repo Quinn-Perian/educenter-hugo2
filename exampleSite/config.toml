@@ -1,4 +1,4 @@
-baseURL = "http://greentest3"
+baseURL = "http://greentest3.netlify.app"
 disableLanguages = []
 disqusShortname = "educenter"
 paginate = "6"
